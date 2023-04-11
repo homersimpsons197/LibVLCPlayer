@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "zgyaZjHXouLXxqpRT1g9pf+X+qc/yTPJY43KzElCrq7DTkMCXAZJSA0Jsp/vh0IoihvIl2N1hSgMAXIgKdvCRQ==",
+  "success": true,
+  "projectFilePath": "F:\\VS\\PlayerFF\\PlayerFF\\PlayerFF.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marcr\\.nuget\\packages\\libvlcsharp\\3.7.0\\libvlcsharp.3.7.0.nupkg.sha512",
+    "C:\\Users\\marcr\\.nuget\\packages\\libvlcsharp.winforms\\3.7.0\\libvlcsharp.winforms.3.7.0.nupkg.sha512",
+    "C:\\Users\\marcr\\.nuget\\packages\\videolan.libvlc.windows\\3.0.18\\videolan.libvlc.windows.3.0.18.nupkg.sha512"
+  ],
+  "logs": []
+}
